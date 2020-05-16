@@ -1,0 +1,19 @@
+@CHARSET "UTF-8";
+clear all;
+td {width：70 px;
+	height: 30 px;
+}
+a{text-decoration:none}
+.querybtn{
+	float: left;
+	width: 60px;
+	height: 25px;
+	margin-top: 6px;
+	background-color: #7777ee;
+	line-height: 25px;
+	text-align: center;
+	color: #ffffff;
+	font-size: 14px;
+	border-radius: 4px;
+	cursor: pointer;
+}
